@@ -13,4 +13,4 @@ Dit is een Laravel-gebaseerd systeem waarmee autogarages reparaties, facturen en
 ## 🚀 Installatie
 1. Clone deze repository:
    ```sh
-   git clone https://github.com/jouwgebruikersnaam/garage-het-wiel.git
+   git clone https://github.com/Xonax/garagehetwiel.git
